@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="regPageTitle">REGISTRATION</string>
+    <string name="loginPageTitle">LOGIN</string>
+    <string name="passwordHint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="regButtonText">Registration</string>
+    <string name="loginButtonText">Login</string>
+    <string name="goBack">Back</string>
+    <string name="signOut">Sign Out</string>
+    <string name="splashTitle">Final App</string>
+    <string name="tvName">Created by Gio Ivanidze</string>
+    <string name="btnEnter">Enter</string>
+</resources>
